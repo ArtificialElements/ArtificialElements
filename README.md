@@ -4,7 +4,7 @@ I do a lot of stuff, and even when it comes to programming specifically I've use
 
 ### I have a couple different accounts on different plateforms:
     
-[Scratch](https://scratch.mit.edu/users/ArtificialElements/)
+[Scratch](https://scratch.mit.edu/users/ArtificialElements/) \n
 [Youtube](https://www.youtube.com/channel/UCgi5wWYf3BEB9VHScSR4JbA)
 
 <!---
