@@ -8,6 +8,6 @@ I do a lot of stuff, and even when it comes to programming specifically I've use
 
 [![ScratchIcon](https://scratch.mit.edu/images/logo_sm.png)](https://scratch.mit.edu/users/ArtificialElements)
 [![YouTubeIcon](http://www.gstatic.com/youtube/img/branding/youtubelogo/1x/youtubelogo_30.png)](https://www.youtube.com/channel/UCgi5wWYf3BEB9VHScSR4JbA)
-
+[![ReplitIcon](https://replit.com/public/images/logo-grayscale.png)](https://replit.com/@ArtElements)
 </p>
 </details>
